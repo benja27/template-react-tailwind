@@ -1,0 +1,9 @@
+ROUTING
+react-router-dom
+utlizamos: 
+BrowserRouter, Routes, Route, Outlet, Link
+
+REDUX
+@reduxjs/toolkit react-redux
+usamos:
+configStore, createslice, createAsyncThunk and Provider
